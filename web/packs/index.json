@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "OfficialInterspeciesPack.json",
+    "XeniaStickers.json"
+  ],
+  "homeserver_url": "https://matrix.workersofthe.world"
+}
